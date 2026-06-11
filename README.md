@@ -3,7 +3,7 @@
 Algorithm Design & Analysis — Assignment (40 marks)
 
 ## Group Info
-- **Lecture Section:** TT4L
+- **Lecture Section:** TC1L
 - **Tutorial Section:** TT4L
 - **Group Number:** G03
 - **Group ID:** TT4L_G03
