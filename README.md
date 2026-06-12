@@ -5,8 +5,6 @@
 ```
 project/
 ├── README.md                    ← You are here
-├── Makefile                     ← Compiles all programs
-├── common.h                     ← Shared header (don't edit unless agreed)
 ├── dataset_generator.cpp        ← Member A
 ├── radix_sort.cpp               ← Member B
 ├── radix_sort_step.cpp          ← Member B
@@ -22,10 +20,10 @@ project/
 
 | Member | Code Files | Report Section | Demo |
 |--------|-----------|----------------|------|
-| **Member A (Leader)** | `dataset_generator.cpp` | Q1: Dataset Generation, Q6: Document completeness, Cover page, TOC, References | Dataset Generator |
-| **Member B** | `radix_sort.cpp`, `radix_sort_step.cpp` | Q2: Radix Sort | Radix Sort |
-| **Member C** | `heap_sort.cpp`, `heap_sort_step.cpp` | Q3: Heap Sort | Heap Sort |
-| **Member D** | `hash_table_search.cpp`, `hash_table_search_step.cpp` | Q4: Hash Table Search | Hash Table Search |
+| **Member A (Leader)** Viandra | `dataset_generator.cpp` | Q1: Dataset Generation, Q6: Document completeness, Cover page, TOC, References | Dataset Generator |
+| **Member B** Ming Zhe| `radix_sort.cpp`, `radix_sort_step.cpp` | Q2: Radix Sort | Radix Sort |
+| **Member C** Ikmalia| `heap_sort.cpp`, `heap_sort_step.cpp` | Q3: Heap Sort | Heap Sort |
+| **Member D** Yi Sheng| `hash_table_search.cpp`, `hash_table_search_step.cpp` | Q4: Hash Table Search | Hash Table Search |
 
 > **Everyone** must: run all algorithms on their own PC (10+ input sizes), take screenshots, write Q7 (experiments), and be ready to explain ALL code at the interview.
 
